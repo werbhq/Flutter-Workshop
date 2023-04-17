@@ -34,12 +34,12 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
-      ),
+      ),git
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('./../assets/diamond.png'),
+            Image.asset('./assets/diamond.png'),
             const Text(
               'This is technically just a diamond',
             ),
