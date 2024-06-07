@@ -1,4 +1,4 @@
-# Flutter Bootcamp Projects
+# Flutter Workshop Projects
 
 This repository contains a collection of Flutter projects developed for a 3-day Flutter bootcamp conducted for our juniors at college. The bootcamp covered the basics of Flutter development, including creating basic UI and implementing functionality. Below are the projects included in this repository:
 
